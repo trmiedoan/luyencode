@@ -8,8 +8,9 @@ public class SolutionTests
     public void Test1()
     {
         // Arrange: Giả lập dữ liệu nhập từ bàn phím
-        var input = @"5 3";
-        string expected = "10";
+        var input = @"4
+10 13 12 8";
+        string expected = @"2";
         var output = new StringWriter();
         var solver = new Solution();
 

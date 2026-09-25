@@ -167,3 +167,4 @@ D:\csharp-practices\Luyencode\LuyenCodeProject\bin\Debug\net10.0\Microsoft.Visua
 D:\csharp-practices\Luyencode\LuyenCodeProject\bin\Debug\net10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\csharp-practices\Luyencode\LuyenCodeProject\obj\Debug\net10.0\LuyenCodeProject.csproj.AssemblyReference.cache
 D:\csharp-practices\Luyencode\LuyenCodeProject\obj\Debug\net10.0\LuyenCod.E112B09A.Up2Date
+D:\csharp-practices\Luyencode\LuyenCodeProject\obj\Debug\net10.0\LuyenCodeProject.sourcelink.json
